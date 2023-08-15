@@ -1,2 +1,2 @@
 # text-recognize
-Reconhecimento de textos em imagens
+Text recognition with Tesseract OCR
